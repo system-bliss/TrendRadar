@@ -1,11 +1,11 @@
 DeepSeek
+
 宇树
 王兴兴
 
 智元
 灵犀
-稚晖君
-彭志辉
+
 !车
 !餐
 !广告
@@ -25,10 +25,13 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
+
 AMD
+
 谷歌
 google
 gemini
+
 deepmind
 
 chatgpt
@@ -37,22 +40,27 @@ sora
 
 claude
 Anthropic
+
 Notion
+
 iphone
 ipad
 mac
 ios
+
 ai
 !gai
 人工智能
+
 自动驾驶
+
 机器人
+
 美国
 日本
 韩国
+
 政治
-芯片
-光刻机
 
 科技
 
