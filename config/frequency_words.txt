@@ -37,7 +37,7 @@ sora
 
 claude
 Anthropic
-
+Notion
 iphone
 ipad
 mac
